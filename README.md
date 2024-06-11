@@ -1,2 +1,3 @@
-# Time-series-Analysis-and-Forecasting
+# Time-series-Analysis
+
 Utilizing SQL, this project explores sales data, revealing crucial metrics such as sales ranking and monthly averages. These insights empower informed decision-making, guiding businesses through the dynamic market landscape with precision.
